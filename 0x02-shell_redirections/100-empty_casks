@@ -1,0 +1,2 @@
+#!/bin/bash
+finf . -typew d,f -empty
